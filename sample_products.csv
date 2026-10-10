@@ -1,0 +1,5 @@
+﻿product_id,name,quantity,unit_cost,selling_price,reorder_level
+P001,Notebook,12,80.00,110.00,5
+P002,Pen,8,18.00,30.00,10
+P003,Pencil,20,35.00,50.00,6
+P004,Marker,3,45.00,70.00,5
