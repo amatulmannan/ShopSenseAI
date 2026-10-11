@@ -1,0 +1,17 @@
+[
+  {"language":"English","question":"What were my total sales?","intent":"revenue"},
+  {"language":"English","question":"Which products sold the most?","intent":"top"},
+  {"language":"English","question":"Which products have low stock?","intent":"low_stock"},
+  {"language":"English","question":"Which products are out of stock?","intent":"out_of_stock"},
+  {"language":"English","question":"How many units were sold?","intent":"units"},
+  {"language":"اردو","question":"میری کل فروخت کتنی تھی؟","intent":"revenue"},
+  {"language":"اردو","question":"سب سے زیادہ کون سی مصنوعات فروخت ہوئیں؟","intent":"top"},
+  {"language":"اردو","question":"کن مصنوعات کا اسٹاک کم ہے؟","intent":"low_stock"},
+  {"language":"اردو","question":"کون سی مصنوعات کا اسٹاک ختم ہے؟","intent":"out_of_stock"},
+  {"language":"اردو","question":"کتنے یونٹ فروخت ہوئے؟","intent":"units"},
+  {"language":"Roman Urdu","question":"Meri total sales kitni thin?","intent":"revenue"},
+  {"language":"Roman Urdu","question":"Sab se zyada kaun si products bikin?","intent":"top"},
+  {"language":"Roman Urdu","question":"Kin products ka stock kam hai?","intent":"low_stock"},
+  {"language":"Roman Urdu","question":"Kin products ka stock khatam hai?","intent":"out_of_stock"},
+  {"language":"Roman Urdu","question":"Kitne units sell huay?","intent":"units"}
+]

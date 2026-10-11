@@ -1,0 +1,6 @@
+product_id,name,quantity,unit_cost,selling_price,reorder_level
+P001,Notebook,12,80.00,110.00,5
+P002,Blue Pen,4,15.00,25.00,8
+P003,Sketchbook,0,140.00,200.00,3
+P004,Gift Bag,30,20.00,40.00,10
+P005,Marker Set,7,95.00,150.00,6
